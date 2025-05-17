@@ -1,3 +1,3 @@
-# Tastly, determine-food-based-on-your-mood-AI-website
+# Tastely
 
-lorem ipsum dolor res
+Tastely is an A.I. website to help you give food recommendations based on your mood
