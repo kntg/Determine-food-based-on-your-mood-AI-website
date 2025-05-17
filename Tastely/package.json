@@ -1,0 +1,14 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Node app with HTML and Vertex AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "vertex": "node vertex.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@google-cloud/vertexai": "^1.4.0"
+  }
+}
